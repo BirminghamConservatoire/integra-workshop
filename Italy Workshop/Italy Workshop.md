@@ -8,7 +8,7 @@ Target audience: Composers, performers and teachers of live electronic music
 Keywords: live electronics, interaction, music, technology  
 
 
-![](/Users/balandinodidonato/Documents/integra-workshop/Brazil Workshop/integra-promo.png)
+![](https://raw.githubusercontent.com/BirminghamConservatoire/integra-workshop/master/Brazil%20Workshop/integra-promo.png)
 
 ## Description
 
@@ -16,7 +16,7 @@ In this workshop we will share with participants the techniques and practice of 
 
 Workshop attendees are invited to bring musical instruments, laptops or work in progress to try with the software.
 
-![](/Users/balandinodidonato/Documents/integra-workshop/Brazil Workshop/IEM_workshop.jpg)
+![](https://raw.githubusercontent.com/BirminghamConservatoire/integra-workshop/master/Brazil%20Workshop/IEM_workshop.jpg)
 
 ## About Integra Lab
 
@@ -24,7 +24,7 @@ Integra Lab ([http://integra.io/lab](http://integra.io/lab)) is an interdiscipli
 
 Integra Lab was founded in 2009 to support the €3.1M EU-funded Integra project. Bringing together new music ensembles, research centres and higher music education institutions from eight European countries and Canada, Integra promoted the wider dissemination of live electronic music and provided composers, performers, teachers and students with the tools to interact with technology in a more user-friendly and musically meaningful way. 
 
-<div style="page-break-after: always;"></div>
+
 
 ## Biography
 
